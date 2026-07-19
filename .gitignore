@@ -2,5 +2,5 @@
 api_key_test.py
 api_key_test2.py
 venv
-# __pycache__
-# .pytest_cache
+__pycache__
+.pytest_cache
